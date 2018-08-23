@@ -1,1 +1,1 @@
-implement_insert_redist,https://github.com/greenplum-db/gpdb
+non_assert_build,https://github.com/asubramanya/gpdb

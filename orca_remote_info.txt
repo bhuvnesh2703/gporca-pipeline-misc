@@ -1,1 +1,1 @@
-strict_spec,https://github.com/bhuvnesh2703/gporca
+non_assert_build,https://github.com/asubramanya/gporca
