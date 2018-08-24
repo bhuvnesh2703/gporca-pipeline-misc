@@ -1,1 +1,1 @@
-disable-assert
+enable-assert
