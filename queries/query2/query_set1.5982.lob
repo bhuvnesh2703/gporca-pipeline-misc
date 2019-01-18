@@ -1,1 +1,0 @@
-select distinct a.cob_date, a.book_strategy, a.book from cdwuser.U_DM_TREASURY a where cob_date in ('2018-02-28') AND A.DATASET_TYPE = 'MRD' and ccc_division = 'TREASURY CAPITAL MARKETS' and BOOK not in ('TSYGLRCSH') and book_strategy = 'Unmapped'
