@@ -1,1 +1,1 @@
-5X_STABLE,https://github.com/greenplum-db/gpdb
+ms-suite,https://github.com/bhuvnesh2703/gpdb
