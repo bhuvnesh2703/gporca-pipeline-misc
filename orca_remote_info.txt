@@ -1,1 +1,1 @@
-v3.21.0,https://github.com/greenplum-db/gporca
+v3.22.0,https://github.com/greenplum-db/gporca
